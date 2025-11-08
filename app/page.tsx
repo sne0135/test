@@ -5,7 +5,7 @@ export default function Page() {
         Hello
       </h1>
       <div className="flex justify-between">
-        <button className="mt ml-3">Dada is a Gadha</button>
+        <button className="mt ml-3">Dada is DADA</button>
         <button className="mr-3">Rahul</button>
       </div>
     </div>
